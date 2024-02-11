@@ -1,6 +1,6 @@
 new Audio("unconditionally.mp3").play();
 
-let text = "Happy Promise Day! I promise to be there for you, always and forever. 💕";
+let text = "Happy Promise Day Kanika❤️!";
 let i = 0;
 
 function typeWriter() {
